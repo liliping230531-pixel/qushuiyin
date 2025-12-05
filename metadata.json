@@ -1,0 +1,5 @@
+{
+  "name": "一键去水印大师",
+  "description": "基于 Gemini Nano Banana 的智能图像去水印工具",
+  "requestFramePermissions": []
+}
